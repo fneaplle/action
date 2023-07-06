@@ -1,1 +1,1 @@
-push test
+print('hellow')

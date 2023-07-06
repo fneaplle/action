@@ -1,1 +1,1 @@
-push2
+print('hellow')
